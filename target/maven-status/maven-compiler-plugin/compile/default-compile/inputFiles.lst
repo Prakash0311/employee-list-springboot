@@ -1,0 +1,6 @@
+/home/nxtwave/employee/src/main/java/com/example/employee/repository/EmployeeJpaRepository.java
+/home/nxtwave/employee/src/main/java/com/example/employee/repository/EmployeeRepository.java
+/home/nxtwave/employee/src/main/java/com/example/employee/EmployeeApplication.java
+/home/nxtwave/employee/src/main/java/com/example/employee/controller/EmployeeController.java
+/home/nxtwave/employee/src/main/java/com/example/employee/model/Employee.java
+/home/nxtwave/employee/src/main/java/com/example/employee/service/EmployeeJpaService.java

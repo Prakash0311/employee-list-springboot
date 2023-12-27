@@ -1,0 +1,44 @@
+[
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetEmployees"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetEmployeeById"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPost"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPutNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPut"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDeleteNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.SmokeTest.contextLoads"
+    }
+]

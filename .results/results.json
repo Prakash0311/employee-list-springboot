@@ -1,0 +1,60 @@
+{
+    "test_case_results": [
+        {
+            "test_case_id": "com.example.employee.SmokeTest.contextLoads",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testGetEmployees",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testGetNotFound",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testGetEmployeeById",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testPost",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testAfterPost",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testDbAfterPost",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testPutNotFound",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testPut",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testAfterPut",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testDbAfterPut",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testDeleteNotFound",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testDelete",
+            "evaluation_result": "CORRECT"
+        },
+        {
+            "test_case_id": "com.example.employee.EmployeeControllerTests.testAfterDelete",
+            "evaluation_result": "CORRECT"
+        }
+    ]
+}
